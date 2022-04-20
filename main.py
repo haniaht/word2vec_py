@@ -106,7 +106,7 @@ import tqdm
 import numpy as np
 
 import tensorflow as tf
-from tensorflow.keras import layers
+from keras import layers
 
 # Commented out IPython magic to ensure Python compatibility.
 # Load the TensorBoard notebook extension
